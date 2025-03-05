@@ -51,11 +51,11 @@ Ronald and Maria organise **AI/ML events** that bring together students, industr
 
 - **🏆 Internal hackathons** to apply ML skills in real-world challenges
 
-- **🎖️ External hackathons** to show your ML skills to different companies
+- **🎖️ External hackathons** to showcase your ML skills to different companies
 
 - **🤝 Collaborations** with other societies and companies
 
- - **🚀 Women in STEM initiatives** to encourage more women to pursue careers in AI/ML
+ - **♀️ Women in STEM initiatives** to encourage more women to pursue careers in AI/ML
 
 ---
 
