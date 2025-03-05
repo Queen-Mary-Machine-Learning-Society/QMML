@@ -4,6 +4,7 @@
 - Developed a purely voice-based Gmail app for visually impaired individuals
 - Evaluated with 18/20 points by @Gus Martins (Product Manager @Google)
 - Features include: Text-to-Voice Email Reading, Voice-to-Text Email Dictation, AI-powered Email Draft Suggestions and Email Summarization (LLM – Gemma 2)
+
 => Technologies Used: Python, Streamlit, PyTorch, Transformers, Gmail API, Google API (OAuth 2.0)
 
 ## Full Description
