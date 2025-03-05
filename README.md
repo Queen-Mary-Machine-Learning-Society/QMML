@@ -13,6 +13,10 @@ Manu hosts **weekly ML lectures**, covering key topics from **fundamental concep
 
 ### 📅 Structure  
 
+- **🕕 When?** **Thursdays, 6–8 PM**
+
+- **🌎 Where?** **Bancroft Building, David Sizer LT**
+
 - **📌 Beginner-friendly foundation** → **Gradual progression to advanced ML**  
 
 - **📝 Weekly practice exercises** to gain hands-on experience with taught materials
@@ -27,25 +31,29 @@ Karl and Maxim host **weekly AI/ML coding sessions** for all skill levels, prima
 
 ### 📅 Schedule  
 
-- **🕕 When?** **Thursdays, 6–8 PM**  
+- **🕕 When?** **Thursdays, 6–8 PM**
+
+- **🌎 Where?** **Bancroft Building, David Sizer LT**
 
 - **📖 Format:**  
 
- - **30-minute presentation** on essential competitive ML concepts by Karl and Maxim  
+    - **30-minute presentation** on essential competitive ML concepts by Karl and Maxim  
 
- - **90-minute team coding session** by members
+    - **90-minute team coding session** by members
 
 ---
 
 ## 🎤 AI/ML Events 
 
-Maria & Ronald Maria and Ronald organize **AI/ML events** that bring together students, industry professionals, and researchers. These include: 
+Ronald and Maria organise **AI/ML events** that bring together students, industry professionals, and researchers. These include: 
 
 - **🎙️ Speaker events** featuring industry experts and researchers 
 
-- **🏆 Internal hackathons** to apply ML skills in real-world challenges - **
+- **🏆 Internal hackathons** to apply ML skills in real-world challenges
 
-🤝 Collaborations** with other societies and companies
+- **🎖️ External hackathons** to show your ML skills to different companies
+
+- **🤝 Collaborations** with other societies and companies
 
  - **🚀 Women in STEM initiatives** to encourage more women to pursue careers in AI/ML
 
