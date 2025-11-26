@@ -16,6 +16,7 @@ This Month's Kaggle competiton (November 2025, S5E11): https://www.kaggle.com/co
 - **05/11** – Kaggle 05: Boosting w/ Monesh & Maiesha 
 - **12/11** – Kaggle 06: Logistic Regression w/ Monesh & Maiesha 
 - **19/11** – Kaggle 07: Cross Validation w/ Girish 
+- **26/11** – Kaggle 08: Random Forest w/ Maiesha 
 
 
 
@@ -23,8 +24,9 @@ This Month's Kaggle competiton (November 2025, S5E11): https://www.kaggle.com/co
 
 ## Upcoming Sessions
 
-- **TBC** – Random Forest; Feature Engineering
-- Remaining sessions TBC. Christmas Hackathon OTW 🥳🎉 
+- **03/12** – Feature Engineering
+- Christmas Hackathon OTW 🥳🎉 
+- 2026 Session topics TBC
 
 ## Resources
 
@@ -35,5 +37,6 @@ This Month's Kaggle competiton (November 2025, S5E11): https://www.kaggle.com/co
 - **Kaggle 05** – Notebook & Slides
 - **Kaggle 06** – Notebook & Slides
 - **Kaggle 07** – Slides (No Notebook)
+- **Kaggle 08** – Slides & Notebook
 
 
