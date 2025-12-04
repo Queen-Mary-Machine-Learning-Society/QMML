@@ -2,7 +2,7 @@
 
 A record of weekly Kaggle learning sessions in 2025-26.
 
-This Month's Kaggle competiton (November 2025, S5E11): https://www.kaggle.com/competitions/playground-series-s5e11
+This Month's Kaggle competiton (December 2025, S5E12): https://www.kaggle.com/competitions/playground-series-s5e12/
 
 
 ---
@@ -17,14 +17,13 @@ This Month's Kaggle competiton (November 2025, S5E11): https://www.kaggle.com/co
 - **12/11** – Kaggle 06: Logistic Regression w/ Monesh & Maiesha 
 - **19/11** – Kaggle 07: Cross Validation w/ Girish 
 - **26/11** – Kaggle 08: Random Forest w/ Maiesha 
-
+- **03/12** – Kaggle 09: Feature Engineering w/ Monesh 
 
 
 ---
 
 ## Upcoming Sessions
 
-- **03/12** – Feature Engineering
 - Christmas Hackathon OTW 🥳🎉 
 - 2026 Session topics TBC
 
@@ -38,5 +37,7 @@ This Month's Kaggle competiton (November 2025, S5E11): https://www.kaggle.com/co
 - **Kaggle 06** – Notebook & Slides
 - **Kaggle 07** – Slides (No Notebook)
 - **Kaggle 08** – Slides & Notebook
+- **Kaggle 09** – Notebook & Slides
+
 
 
