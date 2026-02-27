@@ -18,14 +18,21 @@ This Month's Kaggle competiton (December 2025, S5E12): https://www.kaggle.com/co
 - **19/11** – Kaggle 07: Cross Validation w/ Girish 
 - **26/11** – Kaggle 08: Random Forest w/ Maiesha 
 - **03/12** – Kaggle 09: Feature Engineering w/ Monesh 
+- **10/12** – Hackathon: Christmas Hackathon 
 
+
+- **13/02** – Kaggle 10: Welcome Back w/ Monesh 
+- **20/02** – Hackathon: Valentine's Hackathon
+- **27/02** - Kaggle 11: Time Series I w/ Maiesha 
 
 ---
 
 ## Upcoming Sessions
 
-- Christmas Hackathon OTW 🥳🎉 
-- 2026 Session topics TBC
+- More Time series
+- More broader ML Topics
+- More Playground Series Competitions
+- More Hackathons 
 
 ## Resources
 
