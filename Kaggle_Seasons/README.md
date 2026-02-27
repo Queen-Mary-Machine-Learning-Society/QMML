@@ -8,6 +8,7 @@ This Month's Kaggle competiton (February 2026, S6E2): https://www.kaggle.com/com
 ---
 
 ## Schedule
+### 2025:
 
 - **08/10** – Kaggle 01: Welcome to QMML! + EDA w/ Maiesha  
 - **15/10** – Kaggle 02: Pandas, MatplotLib w/ Maiesha, Monesh & Girish 
@@ -20,7 +21,7 @@ This Month's Kaggle competiton (February 2026, S6E2): https://www.kaggle.com/com
 - **03/12** – Kaggle 09: Feature Engineering w/ Monesh 
 - **10/12** – Hackathon: Christmas Hackathon 
 
-
+### 2026:
 
 - **13/02** – Kaggle 10: Welcome Back w/ Monesh 
 - **20/02** – Hackathon: Valentine's Hackathon
