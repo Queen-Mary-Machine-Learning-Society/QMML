@@ -25,7 +25,8 @@ This Month's Kaggle competiton (February 2026, S6E2): https://www.kaggle.com/com
 
 - **13/02** – Kaggle 10: Welcome Back w/ Monesh 
 - **20/02** – Hackathon: Valentine's Hackathon
-- **27/02** - Kaggle 11: Time Series I w/ Maiesha 
+- **27/02** - Kaggle 11: Time Series I w/ Maiesha
+- **06/03** - Kaggle 12: Time Series II w/ Maiesha
 
 ---
 
