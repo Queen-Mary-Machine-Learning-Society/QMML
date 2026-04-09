@@ -2,7 +2,7 @@
 
 A record of weekly Kaggle learning sessions in 2025-26.
 
-This Month's Kaggle competiton (February 2026, S6E2): https://www.kaggle.com/competitions/playground-series-s6e2/
+This Month's Kaggle competiton (April 2026, S6E2): https://www.kaggle.com/competitions/playground-series-s6e4
 
 
 ---
@@ -27,15 +27,17 @@ This Month's Kaggle competiton (February 2026, S6E2): https://www.kaggle.com/com
 - **20/02** – Hackathon: Valentine's Hackathon
 - **27/02** - Kaggle 11: Time Series I w/ Maiesha
 - **06/03** - Kaggle 12: Time Series II w/ Maiesha
+- **20/03** - Kaggle 13: Intro to Deep Learning w/ Monesh
+- **27/03** - Hackathon: Market Making Support Session w/ Monesh
+- **10/04** - Kaggle 14: The last one...
+
 
 ---
 
 ## Upcoming Sessions
 
-- More Time series
-- More broader ML Topics
-- More Playground Series Competitions
-- More Hackathons 
+- The finale
+
 
 ## Resources
 
@@ -48,6 +50,8 @@ This Month's Kaggle competiton (February 2026, S6E2): https://www.kaggle.com/com
 - **Kaggle 07** – Slides (No Notebook)
 - **Kaggle 08** – Slides & Notebook
 - **Kaggle 09** – Notebook & Slides
+
+- **Kaggle 10** – Notebook & Slides
 
 
 
