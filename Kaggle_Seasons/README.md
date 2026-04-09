@@ -2,7 +2,7 @@
 
 A record of weekly Kaggle learning sessions in 2025-26.
 
-This Month's Kaggle competiton (April 2026, S6E2): https://www.kaggle.com/competitions/playground-series-s6e4
+This Month's Kaggle competiton (April 2026, S6E4): https://www.kaggle.com/competitions/playground-series-s6e4
 
 
 ---
@@ -50,8 +50,10 @@ This Month's Kaggle competiton (April 2026, S6E2): https://www.kaggle.com/compet
 - **Kaggle 07** – Slides (No Notebook)
 - **Kaggle 08** – Slides & Notebook
 - **Kaggle 09** – Notebook & Slides
-
 - **Kaggle 10** – Notebook & Slides
+- **Kaggle 11** – Notebook & Slides
+- **Kaggle 12** – Slides (No Notebook)
+- **Kaggle 13** – Notebook & Slides
 
 
 
