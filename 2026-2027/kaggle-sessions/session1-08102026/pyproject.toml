@@ -1,0 +1,14 @@
+[project]
+name = "session1-08102026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "lightgbm>=4.7.0",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
+    "scikit-learn==1.9.1",
+]
+
