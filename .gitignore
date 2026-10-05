@@ -3,3 +3,6 @@
 
 # Surpresses JetBrains IDE generated files
 .idea
+.serena
+
+AGENTS.md
