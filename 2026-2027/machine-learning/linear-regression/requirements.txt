@@ -1,0 +1,5 @@
+numpy
+pandas
+torch
+matplotlib
+ipykernel # This is for jupyter notebooks
