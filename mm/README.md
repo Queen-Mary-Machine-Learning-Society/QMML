@@ -2,7 +2,9 @@
 
 Ten stocks, ten rounds. Each round you predict the price of one hidden stock from data, then quote a **bid** and an **ask**. The team with the tightest spread becomes the **market maker** and must accept every trade at its prices; every other team trades against it. The true price is revealed, everyone is paid out, and the team with the most money after ten rounds wins.
 
-The paritcipation website is: https://marketmaking-hackathon.onrender.com/admin
+The participation website is: https://marketmaking-hackathon.onrender.com (you should have received an email with your credentials; if you haven't, contact one of the admins)
+
+
 
 **Read the full rules first:** [`instructions/participant_guide.pdf`](instructions/participant_guide.pdf)
 
